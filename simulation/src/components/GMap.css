@@ -2,3 +2,47 @@ svg {
 	display: inline-block;
 	vertical-align: middle;
 }
+
+.tooltip {
+	background-color: white;
+}
+
+.tooltip table {
+	color: black;
+}
+
+.tooltip table td {
+	padding-right: 10px;
+}
+
+.tooltip .country {
+	font-size: 1.1rem;
+	font-weight: bold;
+	margin-bottom: 5px;
+	color: black;
+}
+
+.tooltip .confirmed {
+	color: purple;
+}
+
+.tooltip .discharged {
+	color: green;
+}
+
+.tooltip .death {
+	color: gray;
+}
+
+@media (min-width: 600px) {
+	.gmap {
+		border: 2px solid black;
+		width: 50%;
+		height: 100vh;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		box-sizing: border-box;
+	}
+}

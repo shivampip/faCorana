@@ -1,4 +1,245 @@
 * {
 	margin: 0;
 	padding: 0;
+	font-family: Verdana, Geneva, sans-serif;
+	box-sizing: border-box;
+}
+
+/* .rtt:hover {
+	background-color: blueviolet;
+} */
+
+.titleD {
+	text-align: center;
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding: 5px;
+	background-color: black;
+	color: white;
+}
+
+.subtitleD {
+	text-align: center;
+	font-size: .6rem;
+	font-weight: bold;
+	padding: 5px;
+	background-color: rgb(207, 207, 207);
+	color: black;
+}
+
+.instB {
+	color: gray;
+	text-align: right;
+	font-size: .8rem;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.controlP {
+	/* margin-top: 5px; */
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.controlP button {
+	width: 30%;
+	padding: 15px 10px;
+	margin: 5px;
+	/* background-color: blueviolet; */
+	color: white;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	-webkit-box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+	box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+}
+
+.controlP button:hover {
+	cursor: pointer;
+	/* background-color: rgb(94, 27, 156); */
+}
+
+.controlP .selected {
+	border: 2px solid black;
+}
+
+.dayDiv {
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	font-size: 1.2rem;
+	background-color: rgb(240, 240, 240);
+	color: rgb(80, 80, 80);
+}
+
+.dashboardT {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.dashboardT td,
+.dashboardT th {
+	border: 1px solid #c2c1c1;
+	text-align: center;
+	padding: 8px;
+}
+
+.resourceT td {
+	border: 1px solid #c2c1c1;
+	text-align: left;
+	padding: 8px;
+}
+
+.confirmed {
+	color: blueviolet;
+}
+
+.discharged {
+	color: green;
+}
+
+.death {
+	color: gray;
+}
+
+.confirmedB {
+	background-color: blueviolet;
+}
+.confirmedB:hover {
+	background-color: rgb(90, 28, 148);
+}
+
+.dischargedB {
+	background-color: green;
+}
+.dischargedB:hover {
+	background-color: rgb(2, 83, 2);
+}
+
+.deathB {
+	background-color: gray;
+}
+.deathB:hover {
+	background-color: rgb(80, 79, 79);
+}
+
+.tableHead {
+	width: 100%;
+	padding: 10px;
+	background-color: rgb(42, 212, 133);
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.creditD {
+	text-align: right;
+	padding: 10px;
+	color: rgb(163, 163, 163);
+	margin-bottom: 10px;
+}
+
+.creditD a {
+	color: rgb(119, 172, 158);
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.banner {
+	padding: 10px;
+	margin: 5px;
+	border-radius: 10px;
+	border: 1px solid rgb(204, 231, 255);
+	background-color: aliceblue;
+	text-align: center;
+	font-weight: bold;
+	color: rgb(0, 153, 94);
+	font-size: 1.5rem;
+}
+
+.banner2 {
+	border: 1px solid rgb(177, 204, 255);
+	background-color: rgb(226, 236, 255);
+	text-align: center;
+	font-weight: bold;
+	color: rgb(43, 107, 226);
+	font-size: 1.3rem;
+}
+
+.loadContainer {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #00000065;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.loadT {
+	font-size: 1.2rem;
+	color: white;
+}
+
+@media (min-width: 600px) {
+	.titleD {
+		width: 50%;
+	}
+
+	.subtitleD {
+		width: 50%;
+		font-size: 1rem;
+		padding: 10px;
+	}
+
+	.instB {
+		width: 50%;
+	}
+
+	.controlP {
+		margin-top: 10px;
+		flex-direction: column;
+		width: 50%;
+		align-items: center;
+	}
+	.controlP button {
+		margin-top: 10px;
+	}
+
+	.selected {
+		border: 2px solid black;
+	}
+
+	.dayDiv {
+		width: 50%;
+		font-size: 2rem;
+		background-color: white;
+		margin-top: 10px;
+	}
+
+	.tableHead {
+		width: 50%;
+	}
+
+	.dashboardT {
+		width: 50%;
+		border-collapse: collapse;
+		margin-top: 10px;
+		/* position: absolute;
+		bottom: 20px;
+		left: 0; */
+	}
+
+	.banner {
+		width: 49%;
+	}
+
+	.creditD {
+		width: 50%;
+	}
 }
