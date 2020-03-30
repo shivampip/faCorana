@@ -65,6 +65,28 @@
 	border: 2px solid black;
 }
 
+.hopeWrapper {
+	width: 100%;
+	text-align: center;
+}
+.hopeB {
+	width: fit-content;
+	padding: 15px 20px;
+	margin-top: 10px;
+	background-color: rgb(37, 196, 135);
+	color: white;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	-webkit-box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+	box-shadow: -1px -1px 6px -1px rgba(0, 0, 0, 0.75);
+}
+.hopeB:hover {
+	cursor: pointer;
+	background-color: rgb(24, 134, 92);
+}
+
 .dayDiv {
 	width: 100%;
 	text-align: center;
@@ -213,6 +235,10 @@
 
 	.selected {
 		border: 2px solid black;
+	}
+
+	.hopeWrapper {
+		width: 50%;
 	}
 
 	.dayDiv {

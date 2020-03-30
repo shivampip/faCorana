@@ -36,16 +36,85 @@ class App extends React.Component {
 
 	animateNow = () => {
 		setTimeout(() => {
-			d('Next');
+			d('Next Animation');
 			let row = this.state.data[this.state.count];
 			// this.state.count = this.state.count + 1;
-			this.setState({ count: this.state.count + 1, row: row, day: row.day });
+
+			var parts = row.day.split('-');
+			var ndate = new Date(parts[0], parts[1] - 1, parts[2]);
+			const dtf = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' });
+			const [ { value: mo }, , { value: da }, , { value: ye } ] = dtf.formatToParts(ndate);
+			let nday = `${da}-${mo}-${ye}`;
+
+			d(row);
+			this.setState({ count: this.state.count + 1, row: row, day: nday });
 			if (this.state.count < this.state.data.length) {
 				this.animateNow();
 			} else {
 				this.state.count = 0;
 			}
 		}, 500);
+	};
+
+	showHope = () => {
+		// d('Hope: ' + this.state.count);
+		setTimeout(() => {
+			d('Next Hope');
+			let rrow = this.state.data[this.state.count];
+			// let row = Object.assign({}, rrow);
+			let row = JSON.parse(JSON.stringify(rrow));
+			// this.state.count = this.state.count + 1;
+			if (this.state.count === 0) {
+				d('Now Zero');
+				for (let i = 0; i < row.regional.length; i++) {
+					row.regional[i].confirmedCasesIndian = 0;
+					row.regional[i].confirmedCasesForeign = 0;
+					row.regional[i].deaths = this.state.data[this.state.data.length - 1].summary.deaths;
+					row.regional[i].discharged =
+						this.state.data[this.state.data.length - 1].summary.confirmedCasesIndian +
+						this.state.data[this.state.data.length - 1].summary.confirmedCasesForeign;
+				}
+				row.summary.discharged =
+					this.state.data[this.state.data.length - 1].summary.confirmedCasesIndian +
+					this.state.data[this.state.data.length - 1].summary.confirmedCasesForeign;
+				row.summary.deaths = this.state.data[this.state.data.length - 1].summary.deaths;
+				row.summary.confirmedCasesIndian = 0;
+				row.summary.confirmedCasesForeign = 0;
+			} else {
+				for (let i = 0; i < row.regional.length; i++) {
+					row.regional[i].deaths = this.state.data[this.state.data.length - 1].summary.deaths;
+					row.regional[i].discharged =
+						this.state.data[this.state.data.length - 1].summary.confirmedCasesIndian +
+						this.state.data[this.state.data.length - 1].summary.confirmedCasesForeign -
+						row.regional[i].discharged;
+
+					// row.summary.confirmedCasesIndian = 0;
+					// row.summary.confirmedCasesForeign = 0;
+				}
+				row.summary.discharged =
+					this.state.data[this.state.data.length - 1].summary.confirmedCasesIndian +
+					this.state.data[this.state.data.length - 1].summary.confirmedCasesForeign -
+					row.summary.confirmedCasesIndian -
+					row.summary.confirmedCasesForeign;
+				row.summary.deaths = this.state.data[this.state.data.length - 1].summary.deaths;
+			}
+			// var parts = row.day.split('-');
+			// var ndate = new Date(parts[0], parts[1] - 1, parts[2]);
+			var ndate = new Date();
+			var numberOfDaysToAdd = this.state.data.length - this.state.count;
+			ndate.setDate(ndate.getDate() + Math.floor(numberOfDaysToAdd / 2));
+			const dtf = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' });
+			const [ { value: mo }, , { value: da }, , { value: ye } ] = dtf.formatToParts(ndate);
+			let nday = `We hope and pray: ${da}-${mo}-${ye}`;
+
+			this.setState({ count: this.state.count - 1, row: row, day: nday });
+
+			if (this.state.count >= 0) {
+				this.showHope();
+			} else {
+				this.state.count = this.state.data.length;
+			}
+		}, 300);
 	};
 
 	render() {
@@ -119,6 +188,18 @@ class App extends React.Component {
 						</tr>
 					</tbody>
 				</table>
+				<div className="hopeWrapper">
+					<button
+						className="hopeB"
+						onClick={(eve) => {
+							this.state.event = 'confirmed';
+							this.state.count = this.state.data.length - 1;
+							this.showHope();
+						}}
+					>
+						What We Hope & Pray
+					</button>
+				</div>
 				<div className="instB">
 					<i>Data is not real-time</i>
 				</div>
