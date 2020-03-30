@@ -1,0 +1,41 @@
+,0,1,2,3,4,5,6,7,8,9
+0,State,Total_Tested,Positive,Negative,Unconfirmed,People_In_Isolation,Num_Isolation_Beds,Num_ICU_Beds,Num_Ventilators,Updated_On
+1,,,,,,,,,,
+2,Total,,,,,,,,,
+3,Andaman and Nicobar Islands,,,,0,,,,,
+4,Andhra Pradesh,496,19,412,65,179,23479,2680,330,28/3/2020 20:00
+5,Arunachal Pradesh,,,,0,,,,,
+6,Assam,,,,0,,,,,
+7,Bihar,,,,0,,,,,
+8,Chandigarh,,,,0,,,,,
+9,Chhattisgarh,,,,0,,,,,
+10,Dadra and Nagar Haveli,,,,0,,,,,
+11,Daman and Diu,,,,0,,,,,
+12,Delhi,,,,0,,,,,
+13,Goa,,,,0,,,,,
+14,Gujarat,,,,0,,,,,
+15,Haryana,526,20,388,118,,,,,26/3/2020 18:00
+16,Himachal Pradesh,,,,0,,,,,
+17,Jammu and Kashmir,379,13,341,25,,,,,26/3/2020 18:00
+18,Jharkhand,,,,0,,,,,
+19,Karnataka,3076,76,2763,237,219,,,,28/3/2020 14:00
+20,Kerala,5432,126,3768,1538,,,,,
+21,Ladakh,,,,0,,,,,
+22,Lakshadweep,,,,0,,,,,
+23,Madhya Pradesh,,,,0,,,,,
+24,Maharashtra,,,,0,,,,,
+25,Manipur,,,,0,,,,,
+26,Meghalaya,,,,0,,,,,
+27,Mizoram,,,,0,,,,,
+28,Nagaland,,,,0,,,,,
+29,Odisha,,,,0,,,,,
+30,Puducherry,,,,0,,,,,
+31,Punjab,,,,0,,,,,
+32,Rajasthan,2325,43,2192,90,,,,,26/3/2020 21:00
+33,Sikkim,,,,0,,,,,
+34,Tamil Nadu,1500,42,1252,206,284,13323,,3044,28/3/2020 21:00
+35,Telangana,,,,0,,,,,
+36,Tripura,,,,0,,,,,
+37,Uttar Pradesh,,,,0,,,,,
+38,Uttarakhand,,,,0,,,,,
+39,West Bengal,,,,0,,,,,

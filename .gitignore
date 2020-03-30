@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+data/global_foodprices_data.csv
+
 # Distribution / packaging
 .Python
 build/

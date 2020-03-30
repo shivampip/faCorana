@@ -1,0 +1,1232 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,20,77,689,IN,India,1998,24.07
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,20,77,689,IN,India,1999,23.68
+Health,children_with_diarrhea_3_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 3 Shelter deprivation,p,20,77,689,IN,India,2005,9.7
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,20,77,689,IN,India,2003,9
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,20,77,689,IN,India,1990,4
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1985,60.56
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1955,75.15
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2020,48.95
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1990,58.95
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1960,74.3
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2025,49.06
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1995,57.38
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1965,71.59
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2000,54.69
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1970,69.36
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2005,51.13
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1975,66.34
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2010,49.58
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1980,62.6
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,1950,77.6
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,20,77,689,IN,India,2015,49.41
+Streets,street_density_index_sub_urban_area,Street density index – Sub urban area,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.253
+Streets,street_density_index_sub_urban_area,Street density index – Sub urban area,index,22.494969,88.324676,689,IN,Kolkata,2013,0.399
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,20,77,689,IN,India,1993,87.7
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,20,77,689,IN,India,1998,92.8
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,20,77,689,IN,India,2006,95.1
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,20,77,689,IN,India,1992,15.5
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,20,77,689,IN,India,2006,0.7
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,20,77,689,IN,India,1998,16.9
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2050,914888
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1950,63373
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1955,71301
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1960,79938
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1965,92773
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1970,108546
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1975,130927
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1980,159046
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1985,187754
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1990,219758
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,1995,253774
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2000,289438
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2005,325563
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2007,341247
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2010,366858
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2015,415612
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2020,472561
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2025,538055
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2030,611407
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2035,686835
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2040,763905
+Population,urban_population_countries,Urban population – Countries,1000,20,77,689,IN,India,2045,840681
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,20,77,689,IN,India,1998,81
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1985,23053
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1955,9105
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2020,90688
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1990,32729
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1960,11845
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2025,105587
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1995,39491
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1965,15439
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2000,43858
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1970,14000
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2005,55029
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1975,18121
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2010,65513
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1980,16513
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,1950,11328
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,20,77,689,IN,India,2015,79181
+Population,urban_agglomeration_population_density,Urban agglomeration population density (population/km²),n,25.179999,75.834999,689,IN,Kota,2013,12100
+Population,urban_agglomeration_population_density,Urban agglomeration population density (population/km²),n,19.01699,72.856989,689,IN,Mumbai,2013,31700
+Population,urban_agglomeration_population_density,Urban agglomeration population density (population/km²),n,30.719997,76.780006,689,IN,Chandigarh,2013,5300
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,20,77,689,IN,India,1992,21.5
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,20,77,689,IN,India,2006,20.3
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,20,77,689,IN,India,1998,22.7
+Slum dwellers,literacy_rate_women_2_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 2 Shelter deprivation,p,20,77,689,IN,India,1999,46
+Slum dwellers,distribution_of_solid_cooking_fuel_urban,Percent distribution of solid cooking fuel – Urban,p,20,77,689,IN,India,2006,30.9
+Resilience,population_affected_by_conflicts,Annual average of population affected by conflicts,p,20,77,689,IN,India,1980,3
+Slum dwellers,literacy_rate_slum,Literacy rate by shelter deprivation – Slum,p,20,77,689,IN,India,1999,45.6
+Transport,goods_hauled_by_railways,Goods hauled by railways (million passengers/km),n,20,77,689,IN,India,1999,381241
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,20,77,689,IN,India,2005,139283
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,1990,82.9
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,1960,156.6
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,1995,75
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,2000,66.9
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,1970,128.7
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,2005,57.7
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,2007,54.3
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,20,77,689,IN,India,1980,107.5
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,20,77,689,IN,India,1998,90
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,30.719997,76.780006,689,IN,Chandigarh,2013,15.7
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,22.494969,88.324676,689,IN,Kolkata,2013,15.2
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,19.01699,72.856989,689,IN,Mumbai,2013,15.2
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,20,77,689,IN,India,2001,0.8
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,20,77,689,IN,India,2003,0.9
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.507
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,22.494969,88.324676,689,IN,Kolkata,2013,0.49
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,19.01699,72.856989,689,IN,Mumbai,2013,0.49
+Streets,total_road_network,Total road network (in km),n,20,77,689,IN,India,2000,3383344
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,20,77,689,IN,India,2005,16275
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,20,77,689,IN,India,1992,3.8
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,20,77,689,IN,India,2005,10.8
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,20,77,689,IN,India,1998,6
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.574
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,22.494969,88.324676,689,IN,Kolkata,2013,1
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,19.01699,72.856989,689,IN,Mumbai,2013,0.463
+City prosperity,cpi_4_dimensions,City Prosperity Index with 4 dimensions,p,19.01699,72.856989,689,IN,Mumbai,2012,0.688
+City prosperity,cpi_4_dimensions,City Prosperity Index with 4 dimensions,p,28.600023,77.19998,689,IN,New Delhi,2012,0.617
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,1985,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2020,3
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,1990,2
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2025,4
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,1995,3
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2000,3
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2005,3
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2010,3
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,20,77,689,IN,India,2015,3
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,20,77,689,IN,India,1992,10.3
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,20,77,689,IN,India,2005,9
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,20,77,689,IN,India,1998,18.8
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,20,77,689,IN,India,2007,29.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,73.180019,689,IN,Vadodara,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,73.180019,689,IN,Vadodara,2010,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,73.180019,689,IN,Vadodara,2020,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.01699,72.856989,689,IN,Mumbai,2000,5.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.01699,72.856989,689,IN,Mumbai,2010,5.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,19.01699,72.856989,689,IN,Mumbai,2020,4.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.494969,88.324676,689,IN,Kolkata,2000,4.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.494969,88.324676,689,IN,Kolkata,2010,3.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.494969,88.324676,689,IN,Kolkata,2020,3.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.099972,74.815009,689,IN,Srinagar,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.099972,74.815009,689,IN,Srinagar,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,34.099972,74.815009,689,IN,Srinagar,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,70.800009,689,IN,Rajkot,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,70.800009,689,IN,Rajkot,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.310019,70.800009,689,IN,Rajkot,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.270428,85.82736,689,IN,Bhubaneshwar,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.270428,85.82736,689,IN,Bhubaneshwar,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.270428,85.82736,689,IN,Bhubaneshwar,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.927762,75.872257,689,IN,Ludhiana,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.927762,75.872257,689,IN,Ludhiana,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.927762,75.872257,689,IN,Ludhiana,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.179999,75.834999,689,IN,Kota,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.179999,75.834999,689,IN,Kota,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.179999,75.834999,689,IN,Kota,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.291766,73.016773,689,IN,Jodhpur,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.291766,73.016773,689,IN,Jodhpur,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.291766,73.016773,689,IN,Jodhpur,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.250436,75.76999,689,IN,Kozhikode,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.250436,75.76999,689,IN,Kozhikode,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.250436,75.76999,689,IN,Kozhikode,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.855039,80.914999,689,IN,Lucknow,2000,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.855039,80.914999,689,IN,Lucknow,2010,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.855039,80.914999,689,IN,Lucknow,2020,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.787535,86.197519,689,IN,Jamshedpur,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.787535,86.197519,689,IN,Jamshedpur,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.787535,86.197519,689,IN,Jamshedpur,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.370006,85.330026,689,IN,Ranchi,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.370006,85.330026,689,IN,Ranchi,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.370006,85.330026,689,IN,Ranchi,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.234995,81.635006,689,IN,Raipur,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.234995,81.635006,689,IN,Raipur,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.234995,81.635006,689,IN,Raipur,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.175057,79.955057,689,IN,Jabalpur,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.175057,79.955057,689,IN,Jabalpur,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.175057,79.955057,689,IN,Jabalpur,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.715059,75.865023,689,IN,Indore,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.715059,75.865023,689,IN,Indore,2010,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,22.715059,75.865023,689,IN,Indore,2020,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.669997,78.180075,689,IN,Salem,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.669997,78.180075,689,IN,Salem,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.669997,78.180075,689,IN,Salem,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.770412,84.380007,689,IN,Aurangabad,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.770412,84.380007,689,IN,Aurangabad,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,24.770412,84.380007,689,IN,Aurangabad,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.670406,75.900008,689,IN,Sholapur,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.670406,75.900008,689,IN,Sholapur,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.670406,75.900008,689,IN,Sholapur,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.669993,77.230004,689,IN,Delhi,2000,5.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.669993,77.230004,689,IN,Delhi,2010,5.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.669993,77.230004,689,IN,Delhi,2020,6.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.399983,78.479954,689,IN,Hyderabad,2000,1.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.399983,78.479954,689,IN,Hyderabad,2010,2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.399983,78.479954,689,IN,Hyderabad,2020,2.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.530018,73.850004,689,IN,Pune,2000,1.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.530018,73.850004,689,IN,Pune,2010,1.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.530018,73.850004,689,IN,Pune,2020,1.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.16996,79.089994,689,IN,Nagpur,2000,0.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.16996,79.089994,689,IN,Nagpur,2010,0.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.16996,79.089994,689,IN,Nagpur,2020,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.080421,77.329998,689,IN,Tiruppur,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.080421,77.329998,689,IN,Tiruppur,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,11.080421,77.329998,689,IN,Tiruppur,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.921133,75.809987,689,IN,Jaipur,2000,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.921133,75.809987,689,IN,Jaipur,2010,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.921133,75.809987,689,IN,Jaipur,2020,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.459999,80.319996,689,IN,Kanpur,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.459999,80.319996,689,IN,Kanpur,2010,0.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.459999,80.319996,689,IN,Kanpur,2020,0.7
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.624959,85.130039,689,IN,Patna,2000,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.624959,85.130039,689,IN,Patna,2010,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.624959,85.130039,689,IN,Patna,2020,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,13.089988,80.279999,689,IN,Chennai,2000,2.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,13.089988,80.279999,689,IN,Chennai,2010,2.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,13.089988,80.279999,689,IN,Chennai,2020,2.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.030053,72.580004,689,IN,Ahmedabad,2000,1.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.030053,72.580004,689,IN,Ahmedabad,2010,1.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.030053,72.580004,689,IN,Ahmedabad,2020,1.8
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.199984,72.840039,689,IN,Surat,2000,0.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.199984,72.840039,689,IN,Surat,2010,1.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.199984,72.840039,689,IN,Surat,2020,1.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.000419,73.779982,689,IN,Nasik,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.000419,73.779982,689,IN,Nasik,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,20.000419,73.779982,689,IN,Nasik,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.229987,78.180075,689,IN,Gwalior,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.229987,78.180075,689,IN,Gwalior,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.229987,78.180075,689,IN,Gwalior,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.334921,75.56902,689,IN,Jullundur,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.334921,75.56902,689,IN,Jullundur,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.334921,75.56902,689,IN,Jullundur,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.920026,78.120027,689,IN,Madurai,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.920026,78.120027,689,IN,Madurai,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.920026,78.120027,689,IN,Madurai,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.160017,91.769995,689,IN,Guwahati,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.160017,91.769995,689,IN,Guwahati,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,26.160017,91.769995,689,IN,Guwahati,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.809998,78.689967,689,IN,Tiruchirappalli,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.809998,78.689967,689,IN,Tiruchirappalli,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.809998,78.689967,689,IN,Tiruchirappalli,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.841791,78.756784,689,IN,Moradabad,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.841791,78.756784,689,IN,Moradabad,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.841791,78.756784,689,IN,Moradabad,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.730015,83.304982,689,IN,Vishakhapatnam,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.730015,83.304982,689,IN,Vishakhapatnam,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,17.730015,83.304982,689,IN,Vishakhapatnam,2020,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.519959,80.630003,689,IN,Vijayawada,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.519959,80.630003,689,IN,Vijayawada,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,16.519959,80.630003,689,IN,Vijayawada,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,8.499984,76.950021,689,IN,Thiruvananthapuram,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,8.499984,76.950021,689,IN,Thiruvananthapuram,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,8.499984,76.950021,689,IN,Thiruvananthapuram,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.015008,76.223916,689,IN,Kochi,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.015008,76.223916,689,IN,Kochi,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.015008,76.223916,689,IN,Kochi,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,15.359978,75.125016,689,IN,Hubli,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,15.359978,75.125016,689,IN,Hubli,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,15.359978,75.125016,689,IN,Hubli,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.309984,76.660013,689,IN,Mysore,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.309984,76.660013,689,IN,Mysore,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.309984,76.660013,689,IN,Mysore,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.969995,77.56001,689,IN,Bangalore,2000,1.9
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.969995,77.56001,689,IN,Bangalore,2010,2.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,12.969995,77.56001,689,IN,Bangalore,2020,2.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.009998,79.57999,689,IN,Warangal,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.009998,79.57999,689,IN,Warangal,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,18.009998,79.57999,689,IN,Warangal,2020,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.719997,76.780006,689,IN,Chandigarh,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.719997,76.780006,689,IN,Chandigarh,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.719997,76.780006,689,IN,Chandigarh,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.639992,74.869993,689,IN,Amritsar,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.639992,74.869993,689,IN,Amritsar,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,31.639992,74.869993,689,IN,Amritsar,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.32999,83.000039,689,IN,Varanasi,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.32999,83.000039,689,IN,Varanasi,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.32999,83.000039,689,IN,Varanasi,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.683333,86.983333,689,IN,Asansol,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.683333,86.983333,689,IN,Asansol,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.683333,86.983333,689,IN,Asansol,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.216667,81.433333,689,IN,Bhilai,2000,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.216667,81.433333,689,IN,Bhilai,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,21.216667,81.433333,689,IN,Bhilai,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.249988,77.409993,689,IN,Bhopal,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.249988,77.409993,689,IN,Bhopal,2010,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.249988,77.409993,689,IN,Bhopal,2020,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.454995,81.840007,689,IN,Allahabad,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.454995,81.840007,689,IN,Allahabad,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,25.454995,81.840007,689,IN,Allahabad,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.99996,76.950021,689,IN,Coimbatore,2000,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.99996,76.950021,689,IN,Coimbatore,2010,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,10.99996,76.950021,689,IN,Coimbatore,2020,0.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.17042,78.015021,689,IN,Agra,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.17042,78.015021,689,IN,Agra,2010,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.17042,78.015021,689,IN,Agra,2020,0.5
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.892211,78.061788,689,IN,Aligarh,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.892211,78.061788,689,IN,Aligarh,2010,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,27.892211,78.061788,689,IN,Aligarh,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.000412,77.700001,689,IN,Meerut,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.000412,77.700001,689,IN,Meerut,2010,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,29.000412,77.700001,689,IN,Meerut,2020,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.800393,86.419986,689,IN,Dhanbad,2000,0.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.800393,86.419986,689,IN,Dhanbad,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,23.800393,86.419986,689,IN,Dhanbad,2020,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.345387,79.42,689,IN,Bareilly,2000,0.2
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.345387,79.42,689,IN,Bareilly,2010,0.3
+Slum dwellers,urban_population_share_national,Share in national urban population,p,28.345387,79.42,689,IN,Bareilly,2020,0.3
+Streets,percentage_of_roads,Percentage of roads measured in length,p,20,77,689,IN,India,2000,47.4
+Slum dwellers,improved_pit_latrine,Access to improved pit latrine,p,20,77,689,IN,India,2006,0.5
+Slum dwellers,improved_spring_surface_water,Access to improved spring/surface water,p,20,77,689,IN,India,2006,0.1
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,2020,13.38
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,2025,14.79
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,1995,14.24
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,2000,14.37
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,2010,14.36
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,20,77,689,IN,India,2015,13.87
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,30.719997,76.780006,689,IN,Chandigarh,2013,12.2
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,22.494969,88.324676,689,IN,Kolkata,2013,12.1
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,19.01699,72.856989,689,IN,Mumbai,2013,10
+Slum dwellers,improved_floor,Access to improved flooring,p,20,77,689,IN,India,2006,80.8
+Slum dwellers,literacy_rate_2_shelter_deprivation,Literacy rate by shelter deprivation – 2 Shelter deprivation,p,20,77,689,IN,India,1999,46
+Slum dwellers,literacy_rate_women_urban,Literacy rate by shelter deprivation (Women) – Urban,p,20,77,689,IN,India,1999,62.2
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,25.179999,75.834999,689,IN,Kota,2013,14630000
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,19.01699,72.856989,689,IN,Mumbai,2013,17307000
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,30.719997,76.780006,689,IN,Chandigarh,2013,1074000
+Transport,total_railway_route,Total railway route,km,20,77,689,IN,India,1999,63221
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,26.750394,83.380016,689,IN,Gorakhpur,1997,0.46
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,24.799971,85.000021,689,IN,Gaya,1997,0.47
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,26.750394,82.170013,689,IN,Faizabad,1997,0.28
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,27.620419,81.66994,689,IN,Bahraich,1997,0.37
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,25.145376,82.569988,689,IN,Mirzapur,1997,0.4
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,25.229996,86.980003,689,IN,Bhagalpur,1997,0.41
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,25.454995,81.840007,689,IN,Allahabad,1997,0.39
+Slum dwellers,income_gini_coefficient_cities,Income Gini Coefficient – Cities,r,26.120433,85.379946,689,IN,Muzaffarpur,1997,0.35
+City prosperity,cpi_equity_index,Equity Index,p,19.01699,72.856989,689,IN,Mumbai,2012,0.715
+City prosperity,cpi_equity_index,Equity Index,p,28.600023,77.19998,689,IN,New Delhi,2012,0.712
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,20,77,689,IN,India,1992,8.7
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,20,77,689,IN,India,2005,8.9
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,20,77,689,IN,India,1998,19.3
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,20,77,689,IN,India,1993,68
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,20,77,689,IN,India,1998,72.5
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,20,77,689,IN,India,2006,77
+Resilience,loss_lives_by_droughts_per_million_population,Number of loss of lives by droughts per million population,n,20,77,689,IN,India,1980,0.02
+Streets,street_density_sub_urban_area,Street density (km/km²) – suburban area,n,30.719997,76.780006,689,IN,Chandigarh,2013,8.3
+Streets,street_density_sub_urban_area,Street density (km/km²) – suburban area,n,22.494969,88.324676,689,IN,Kolkata,2013,12.6
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,20,77,689,IN,India,1992,9.9
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,20,77,689,IN,India,2005,9
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,20,77,689,IN,India,1998,18.9
+City prosperity,cpi_5_dimensions,City Prosperity Index with 5 dimensions,p,19.01699,72.856989,689,IN,Mumbai,2012,0.694
+City prosperity,cpi_5_dimensions,City Prosperity Index with 5 dimensions,p,28.600023,77.19998,689,IN,New Delhi,2012,0.635
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,19.01699,72.856989,689,IN,Mumbai,2012,0.745
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,28.600023,77.19998,689,IN,New Delhi,2012,0.786
+Slum dwellers,improved_toilet,Access to improved toilet,p,20,77,689,IN,India,1992,68
+Slum dwellers,improved_toilet,Access to improved toilet,p,20,77,689,IN,India,1998,72.4
+Slum dwellers,improved_toilet,Access to improved toilet,p,20,77,689,IN,India,2006,77
+Streets,paved_road,Paved roads,p,20,77,689,IN,India,2009,49.5
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1990,116.6
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1960,234.1
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1995,104.1
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2000,91.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1970,190.3
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2005,76.9
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2007,71.8
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1980,156.2
+Streets,total_length_road,Total length of road network (km),n,20,77,689,IN,India,2009,4109592
+Resilience,loss_of_lives_in_cyclones_per_million_population,Number of loss of lives in cyclones per million population,n,20,77,689,IN,India,1980,1.24
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,30.719997,76.780006,689,IN,Chandigarh,2013,8.6
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,22.494969,88.324676,689,IN,Kolkata,2013,9
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,19.01699,72.856989,689,IN,Mumbai,2013,6.6
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,20,77,689,IN,India,1980,1.55
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,20,77,689,IN,India,2000,6
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,20,77,689,IN,India,1980,14.62
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,1990,77.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,1993,85
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,1998,98
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,2000,97.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,2003,97.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,19.01699,72.856989,689,IN,Mumbai,2006,95.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,1990,53.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,1993,60.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,1998,64.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,2000,75.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,2003,82
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,20.709988,77.010017,689,IN,Akola,2006,61.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,1990,81.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,1993,85.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,1998,94
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,2000,96.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,2003,99
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,28.669993,77.230004,689,IN,Delhi,2006,84.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1990,77.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1993,80.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1998,70.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2000,87.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2003,90
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2006,76.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.680448,76.969968,689,IN,Karnal,2003,87.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,1990,96.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,1993,95.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,1998,91.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,2000,92.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,2003,90.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.921133,75.809987,689,IN,Jaipur,2006,98.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1990,77.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1993,82.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1998,89.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2000,94.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2003,99.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2006,69.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,1990,95.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,1993,95.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,1998,92.9
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,2000,94
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,2003,93.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.639992,74.869993,689,IN,Amritsar,2006,98.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,1990,79
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,1993,77.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,1998,76.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,2000,74.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,2003,73.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,18.530018,73.850004,689,IN,Pune,2006,78.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,1990,68.9
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,1993,74.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,1998,78.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,2000,87.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,2003,93.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,34.099972,74.815009,689,IN,Srinagar,2006,64.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1990,81
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1993,84.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1998,90
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2000,91.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2003,94.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2006,54.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,11.934994,79.83,689,IN,Pondicherry,2006,69.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.169988,75.725031,689,IN,Hisar,2000,85.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.169988,75.725031,689,IN,Hisar,2003,97.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.169988,75.725031,689,IN,Hisar,1998,77.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.169988,75.725031,689,IN,Hisar,2006,77.4
+Population,base_year_population_estimate,Urban agglomeration base year population estimate,n,25.179999,75.834999,689,IN,Kota,2013,14113000
+Population,base_year_population_estimate,Urban agglomeration base year population estimate,n,19.01699,72.856989,689,IN,Mumbai,2013,16600000
+Population,base_year_population_estimate,Urban agglomeration base year population estimate,n,30.719997,76.780006,689,IN,Chandigarh,2013,1026000
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,20,77,689,IN,India,1998,29.38
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,20,77,689,IN,India,1999,27.25
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,20,77,689,IN,India,1992,39.7
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,20,77,689,IN,India,2005,51.6
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,20,77,689,IN,India,1998,45.7
+Slum dwellers,protected_well,Access to protected well,p,20,77,689,IN,India,1998,0.3
+Slum dwellers,protected_well,Access to protected well,p,20,77,689,IN,India,2006,1.8
+Transport,passengers_carried_by_railway,Passengers carried by railway (million passengers/km),n,20,77,689,IN,India,2000,541208
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1985,34
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1955,5
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2020,63
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1990,30
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1960,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2025,70
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1995,36
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1965,7
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2000,39
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1970,10
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2005,46
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1975,17
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2010,51
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1980,29
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,1950,4
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,20,77,689,IN,India,2015,55
+Slum dwellers,piped_water,Access to piped water,p,20,77,689,IN,India,1992,48.1
+Slum dwellers,piped_water,Access to piped water,p,20,77,689,IN,India,2006,50.7
+Slum dwellers,piped_water,Access to piped water,p,20,77,689,IN,India,1998,51.6
+Slum dwellers,literacy_rate_rural,Literacy rate by shelter deprivation – Rural,p,20,77,689,IN,India,1999,27.6
+Slum dwellers,literacy_rate_women_1_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 1 Shelter deprivation,p,20,77,689,IN,India,1999,45.5
+Slum dwellers,expenditure_gini_coefficient_countries,Expenditure Gini Coefficient – Countries,r,20,77,689,IN,India,2001,0.51
+Streets,street_density_index_city_core,Street density index – City core,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.5
+Streets,street_density_index_city_core,Street density index – City core,index,22.494969,88.324676,689,IN,Kolkata,2013,0.745
+Streets,street_density_index_city_core,Street density index – City core,index,19.01699,72.856989,689,IN,Mumbai,2013,0.483
+Slum dwellers,pit_latrine_with_slab_or_covered_latrine,Access to slab or covered pit latrine,p,20,77,689,IN,India,2006,2.1
+Streets,road_density_national_roads,Road density (km/100km²),n,20,77,689,IN,India,2009,125
+Resilience,loss_lives_by_droughts,Annual average loss of lives in draughts,n,20,77,689,IN,India,1980,19.52
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,1990,121022
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,1995,122231
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,2000,119698
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,2005,112913
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,2007,109102
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,20,77,689,IN,India,2009,104679
+Streets,intersection_density_sub_urban_area,Intersection density (#/km²) – suburban area,n,30.719997,76.780006,689,IN,Chandigarh,2013,46.4
+Streets,intersection_density_sub_urban_area,Intersection density (#/km²) – suburban area,n,22.494969,88.324676,689,IN,Kolkata,2013,113.3
+Resilience,number_of_cyclones,Average annual number of events in cyclones,n,20,77,689,IN,India,1980,2.76
+Health,children_with_diarrhea_non_slum,Proportion of children with diarrhea in last two weeks – Non-slum,p,20,77,689,IN,India,1992,7.9
+Health,children_with_diarrhea_non_slum,Proportion of children with diarrhea in last two weeks – Non-slum,p,20,77,689,IN,India,2005,8.2
+Health,children_with_diarrhea_non_slum,Proportion of children with diarrhea in last two weeks – Non-slum,p,20,77,689,IN,India,1998,18.5
+Health,children_with_diarrhea_1_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 1 Shelter deprivation,p,20,77,689,IN,India,1992,9.8
+Health,children_with_diarrhea_1_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 1 Shelter deprivation,p,20,77,689,IN,India,2005,8.8
+Health,children_with_diarrhea_1_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 1 Shelter deprivation,p,20,77,689,IN,India,1998,21.3
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,20,77,689,IN,India,1980,1313.24
+Population,has_telephone,Access to telephone,p,20,77,689,IN,India,1998,20.1
+Population,has_telephone,Access to telephone,p,20,77,689,IN,India,2006,26.7
+Streets,land_allocated_to_street_index_sub_urban_area,Land Allocated to Street Index – suburban area,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.264
+Streets,land_allocated_to_street_index_sub_urban_area,Land Allocated to Street Index – suburban area,index,22.494969,88.324676,689,IN,Kolkata,2013,0.275
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,20,77,689,IN,India,1992,60.1
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,20,77,689,IN,India,1998,63.9
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,20,77,689,IN,India,2006,74.3
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,20,77,689,IN,India,1998,96.6
+Slum dwellers,literacy_rate_women_slum,Literacy rate by shelter deprivation (Women) – Slum,p,20,77,689,IN,India,1999,45.6
+Resilience,loss_of_lives_by_earthquake_per_million_population,Number of loss of lives by earthquake per million population,n,20,77,689,IN,India,1980,0.73
+Slum dwellers,pump_borehole,Access to pump/borehole,p,20,77,689,IN,India,1992,18.1
+Slum dwellers,pump_borehole,Access to pump/borehole,p,20,77,689,IN,India,1998,18.1
+Slum dwellers,pump_borehole,Access to pump/borehole,p,20,77,689,IN,India,2006,21.3
+Streets,intersection_density_index_sub_urban_area,Intersection density index – Sub urban area,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.265
+Streets,intersection_density_index_sub_urban_area,Intersection density index – Sub urban area,index,22.494969,88.324676,689,IN,Kolkata,2013,0.648
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,20,77,689,IN,India,1999,27.6
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,20,77,689,IN,India,1992,8.1
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,20,77,689,IN,India,2005,17.2
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,20,77,689,IN,India,1998,11.2
+Slum dwellers,literacy_rate_women_non_slum,Literacy rate by shelter deprivation – Non slum,p,20,77,689,IN,India,1999,73
+Population,population,Total population,1000,20,77,689,IN,India,2050,1658270
+Population,population,Total population,1000,20,77,689,IN,India,1950,371857
+Population,population,Total population,1000,20,77,689,IN,India,1955,405529
+Population,population,Total population,1000,20,77,689,IN,India,1960,445981
+Population,population,Total population,1000,20,77,689,IN,India,1965,493868
+Population,population,Total population,1000,20,77,689,IN,India,1970,549312
+Population,population,Total population,1000,20,77,689,IN,India,1975,613767
+Population,population,Total population,1000,20,77,689,IN,India,1980,688575
+Population,population,Total population,1000,20,77,689,IN,India,1985,771121
+Population,population,Total population,1000,20,77,689,IN,India,1990,860195
+Population,population,Total population,1000,20,77,689,IN,India,1995,954282
+Population,population,Total population,1000,20,77,689,IN,India,2000,1046235
+Population,population,Total population,1000,20,77,689,IN,India,2005,1134403
+Population,population,Total population,1000,20,77,689,IN,India,2007,1169016
+Population,population,Total population,1000,20,77,689,IN,India,2010,1220182
+Population,population,Total population,1000,20,77,689,IN,India,2015,1302535
+Population,population,Total population,1000,20,77,689,IN,India,2020,1379198
+Population,population,Total population,1000,20,77,689,IN,India,2025,1447499
+Population,population,Total population,1000,20,77,689,IN,India,2030,1505748
+Population,population,Total population,1000,20,77,689,IN,India,2035,1554182
+Population,population,Total population,1000,20,77,689,IN,India,2040,1596719
+Population,population,Total population,1000,20,77,689,IN,India,2045,1631920
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,20,77,689,IN,India,1992,47.5
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,20,77,689,IN,India,2005,50.1
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,20,77,689,IN,India,1998,53.4
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,25.179999,75.834999,689,IN,Kota,2013,1204
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,19.01699,72.856989,689,IN,Mumbai,2013,546
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,30.719997,76.780006,689,IN,Chandigarh,2013,202
+Slum dwellers,distribution_of_solid_cooking_fuel_non_slum,Percent distribution of solid cooking fuel – Non slum,p,20,77,689,IN,India,2006,13
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1985,2
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1955,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2020,6
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1990,2
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1960,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2025,5
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1995,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1965,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2000,3
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1970,2
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2005,4
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1975,2
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2010,5
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,1980,3
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,20,77,689,IN,India,2015,5
+Streets,street_density_total,Street density (km/km²) – total,n,19.01699,72.856989,689,IN,Mumbai,2013,13.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,1990,96.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,1993,97.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,1998,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,2000,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,2003,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,19.01699,72.856989,689,IN,Mumbai,2006,87.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,1990,88
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,1993,89.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,1998,93.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,2000,94.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,2003,96.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,20.709988,77.010017,689,IN,Akola,2006,57.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,22.494969,88.324676,689,IN,Kolkata,2006,96.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,1990,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,1993,99.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,1998,99.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,2000,99.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,2003,99
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,28.669993,77.230004,689,IN,Delhi,2006,95.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1990,97.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1993,98.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1998,98.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2000,98.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2003,98.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2006,62.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,1990,99.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,1993,99.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,1998,98.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,2000,98
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,2003,97.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,18.530018,73.850004,689,IN,Pune,2006,64.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,1990,99.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,1993,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,1998,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,2000,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,2003,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.921133,75.809987,689,IN,Jaipur,2006,97.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1990,99.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1993,99
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1998,98.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2000,98.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2003,98.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2006,88.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.639992,74.869993,689,IN,Amritsar,2006,87.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.680448,76.969968,689,IN,Karnal,2003,99.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,1990,96.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,1993,97
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,1998,98.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,2000,98.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,2003,99.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,34.099972,74.815009,689,IN,Srinagar,2006,85.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1990,90.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1993,92.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1998,97
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2000,98.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2003,98.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2006,95.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,11.934994,79.83,689,IN,Pondicherry,2006,65.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,1990,91.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,1993,94.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,1998,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,2000,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,2003,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.169988,75.725031,689,IN,Hisar,2006,80.3
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,19.01699,72.856989,689,IN,Mumbai,2012,0.739
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,28.600023,77.19998,689,IN,New Delhi,2012,0.69
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,26.750394,83.380016,689,IN,Gorakhpur,1997,0.37
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,24.799971,85.000021,689,IN,Gaya,1997,0.42
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,26.750394,82.170013,689,IN,Faizabad,1997,0.36
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,27.620419,81.66994,689,IN,Bahraich,1997,0.35
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,25.145376,82.569988,689,IN,Mirzapur,1997,0.46
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,25.229996,86.980003,689,IN,Bhagalpur,1997,0.37
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,25.454995,81.840007,689,IN,Allahabad,1997,0.37
+Slum dwellers,expenditure_gini_coefficient_cities,Expenditure Gini Coefficient – Cities,r,26.120433,85.379946,689,IN,Muzaffarpur,1997,0.38
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,20,77,689,IN,India,1992,41.8
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,20,77,689,IN,India,2005,51.1
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,20,77,689,IN,India,1998,47.8
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.526
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,22.494969,88.324676,689,IN,Kolkata,2013,0.714
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,19.01699,72.856989,689,IN,Mumbai,2013,0.478
+Slum dwellers,connection_to_electricity,Connection to electricity,p,20,77,689,IN,India,1992,82.8
+Slum dwellers,connection_to_electricity,Connection to electricity,p,20,77,689,IN,India,1998,91.3
+Slum dwellers,connection_to_electricity,Connection to electricity,p,20,77,689,IN,India,2006,93.1
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,19.01699,72.856989,689,IN,Mumbai,2012,0.632
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,28.600023,77.19998,689,IN,New Delhi,2012,0.448
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1985,10
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1955,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2020,52
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1990,19
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1960,6
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2025,56
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1995,20
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1965,7
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2000,26
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1970,7
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2005,33
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1975,8
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2010,40
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1980,7
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,1950,5
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,20,77,689,IN,India,2015,46
+Resilience,number_of_droughts,Average annual number of events in droughts,n,20,77,689,IN,India,1980,0.38
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,1990,54.9
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,1995,48.2
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,2000,41.5
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,2005,34.8
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,2007,32.1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,20,77,689,IN,India,2009,29.4
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,20,77,689,IN,India,1998,86.8
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,20,77,689,IN,India,1998,79.2
+Streets,intersection_density_total,Intersection density (km²) – total,n,19.01699,72.856989,689,IN,Mumbai,2013,74
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.310019,73.180019,689,IN,Vadodara,2000,2.02
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.310019,73.180019,689,IN,Vadodara,2010,2.36
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.310019,70.800009,689,IN,Rajkot,2000,3.34
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.310019,70.800009,689,IN,Rajkot,2010,3.13
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.494969,88.324676,689,IN,Kolkata,2000,0.9
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.494969,88.324676,689,IN,Kolkata,2010,1.53
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.01699,72.856989,689,IN,Mumbai,2000,1.71
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,19.01699,72.856989,689,IN,Mumbai,2010,1.97
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.855039,80.914999,689,IN,Lucknow,2000,2.51
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.855039,80.914999,689,IN,Lucknow,2010,2.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.730015,83.304982,689,IN,Vishakhapatnam,2000,2.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.730015,83.304982,689,IN,Vishakhapatnam,2010,2.75
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.927762,75.872257,689,IN,Ludhiana,2000,1.55
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.927762,75.872257,689,IN,Ludhiana,2010,2.07
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.179999,75.834999,689,IN,Kota,2000,3.46
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.179999,75.834999,689,IN,Kota,2010,3.3
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.291766,73.016773,689,IN,Jodhpur,2000,2.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.291766,73.016773,689,IN,Jodhpur,2010,2.9
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.250436,75.76999,689,IN,Kozhikode,2000,0.94
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.250436,75.76999,689,IN,Kozhikode,2010,1.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.270428,85.82736,689,IN,Bhubaneshwar,2000,3.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.270428,85.82736,689,IN,Bhubaneshwar,2010,2.98
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.345387,79.42,689,IN,Bareilly,2000,2.86
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.345387,79.42,689,IN,Bareilly,2010,2.97
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.370006,85.330026,689,IN,Ranchi,2000,2.72
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.370006,85.330026,689,IN,Ranchi,2010,2.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.234995,81.635006,689,IN,Raipur,2000,4.69
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.234995,81.635006,689,IN,Raipur,2010,3.99
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.175057,79.955057,689,IN,Jabalpur,2000,1.33
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.175057,79.955057,689,IN,Jabalpur,2010,1.98
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.715059,75.865023,689,IN,Indore,2000,2.87
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.715059,75.865023,689,IN,Indore,2010,2.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.459999,80.319996,689,IN,Kanpur,2000,0.95
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.459999,80.319996,689,IN,Kanpur,2010,1.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.009998,79.57999,689,IN,Warangal,2000,2.7
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.009998,79.57999,689,IN,Warangal,2010,2.88
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,24.770412,84.380007,689,IN,Aurangabad,2000,2.96
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,24.770412,84.380007,689,IN,Aurangabad,2010,2.92
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.670406,75.900008,689,IN,Sholapur,2000,1.03
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.670406,75.900008,689,IN,Sholapur,2010,1.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.669993,77.230004,689,IN,Delhi,2000,3.32
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.669993,77.230004,689,IN,Delhi,2010,2.89
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.399983,78.479954,689,IN,Hyderabad,2000,3.3
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,17.399983,78.479954,689,IN,Hyderabad,2010,3.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.530018,73.850004,689,IN,Pune,2000,3.04
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,18.530018,73.850004,689,IN,Pune,2010,2.85
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.16996,79.089994,689,IN,Nagpur,2000,1.68
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.16996,79.089994,689,IN,Nagpur,2010,2.13
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.787535,86.197519,689,IN,Jamshedpur,2000,2
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,22.787535,86.197519,689,IN,Jamshedpur,2010,2.36
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.080421,77.329998,689,IN,Tiruppur,2000,5.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.080421,77.329998,689,IN,Tiruppur,2010,4.58
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.921133,75.809987,689,IN,Jaipur,2000,2.89
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.921133,75.809987,689,IN,Jaipur,2010,2.79
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.809998,78.689967,689,IN,Tiruchirappalli,2000,1.86
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.809998,78.689967,689,IN,Tiruchirappalli,2010,2.35
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.624959,85.130039,689,IN,Patna,2000,1.98
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.624959,85.130039,689,IN,Patna,2010,2.26
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,13.089988,80.279999,689,IN,Chennai,2000,2.94
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,13.089988,80.279999,689,IN,Chennai,2010,2.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.030053,72.580004,689,IN,Ahmedabad,2000,3.38
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.030053,72.580004,689,IN,Ahmedabad,2010,3.08
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.199984,72.840039,689,IN,Surat,2000,4.98
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.199984,72.840039,689,IN,Surat,2010,3.97
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.683333,86.983333,689,IN,Asansol,2000,1.46
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.683333,86.983333,689,IN,Asansol,2010,2.01
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.334921,75.56902,689,IN,Jullundur,2000,2.17
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.334921,75.56902,689,IN,Jullundur,2010,2.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.454995,81.840007,689,IN,Allahabad,2000,1.52
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.454995,81.840007,689,IN,Allahabad,2010,2.11
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.160017,91.769995,689,IN,Guwahati,2000,1.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.160017,91.769995,689,IN,Guwahati,2010,2.27
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1985,0.96
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1955,0.39
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2020,1.63
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1990,0.8
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1960,0.94
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2025,1.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1995,0.79
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1965,1.01
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2030,1.69
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2000,0.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1970,1.53
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2035,1.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2005,0.93
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1975,1.59
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2040,1.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2010,1.19
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1980,1.05
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2045,1.37
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,1950,0.62
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20,77,689,IN,India,2015,1.42
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.099972,74.815009,689,IN,Srinagar,2000,2.71
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,34.099972,74.815009,689,IN,Srinagar,2010,2.81
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,16.519959,80.630003,689,IN,Vijayawada,2000,3.74
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,16.519959,80.630003,689,IN,Vijayawada,2010,3.48
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,8.499984,76.950021,689,IN,Thiruvananthapuram,2000,0.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,8.499984,76.950021,689,IN,Thiruvananthapuram,2010,1.7
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.015008,76.223916,689,IN,Kochi,2000,1.73
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.015008,76.223916,689,IN,Kochi,2010,2.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,15.359978,75.125016,689,IN,Hubli,2000,1.84
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,15.359978,75.125016,689,IN,Hubli,2010,2.33
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,12.309984,76.660013,689,IN,Mysore,2000,2.22
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,12.309984,76.660013,689,IN,Mysore,2010,2.57
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,12.969995,77.56001,689,IN,Bangalore,2000,3.96
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,12.969995,77.56001,689,IN,Bangalore,2010,3.41
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.99996,76.950021,689,IN,Coimbatore,2000,3.89
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10.99996,76.950021,689,IN,Coimbatore,2010,3.5
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.719997,76.780006,689,IN,Chandigarh,2000,2.44
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.719997,76.780006,689,IN,Chandigarh,2010,2.64
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.639992,74.869993,689,IN,Amritsar,2000,1.68
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,31.639992,74.869993,689,IN,Amritsar,2010,2.16
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.32999,83.000039,689,IN,Varanasi,2000,1.69
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,25.32999,83.000039,689,IN,Varanasi,2010,2.22
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.000419,73.779982,689,IN,Nasik,2000,3.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,20.000419,73.779982,689,IN,Nasik,2010,2.99
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.216667,81.433333,689,IN,Bhilai,2000,1.52
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,21.216667,81.433333,689,IN,Bhilai,2010,2.08
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.249988,77.409993,689,IN,Bhopal,2000,2.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.249988,77.409993,689,IN,Bhopal,2010,2.71
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,9.920026,78.120027,689,IN,Madurai,2000,1.95
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,9.920026,78.120027,689,IN,Madurai,2010,2.41
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.841791,78.756784,689,IN,Moradabad,2000,3.3
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,28.841791,78.756784,689,IN,Moradabad,2010,3.17
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.669997,78.180075,689,IN,Salem,2000,2.09
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,11.669997,78.180075,689,IN,Salem,2010,2.46
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27.17042,78.015021,689,IN,Agra,2000,2.82
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27.17042,78.015021,689,IN,Agra,2010,2.83
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27.892211,78.061788,689,IN,Aligarh,2000,3.1
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27.892211,78.061788,689,IN,Aligarh,2010,3.06
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.000412,77.700001,689,IN,Meerut,2000,2.07
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,29.000412,77.700001,689,IN,Meerut,2010,2.39
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.800393,86.419986,689,IN,Dhanbad,2000,1.26
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,23.800393,86.419986,689,IN,Dhanbad,2010,1.93
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.229987,78.180075,689,IN,Gwalior,2000,2.38
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,26.229987,78.180075,689,IN,Gwalior,2010,2.65
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,30.719997,76.780006,689,IN,Chandigarh,2013,100.4
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,22.494969,88.324676,689,IN,Kolkata,2013,212.4
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,19.01699,72.856989,689,IN,Mumbai,2013,81
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,20,77,689,IN,India,1992,19.2
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,20,77,689,IN,India,2005,30.5
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,20,77,689,IN,India,1998,25
+Transport,passengers_carried_by_air,Passengers carried by air,1000,20,77,689,IN,India,2004,23797
+Population,percentage_of_international_migrants,Percentage of international migrants,p,20,77,689,IN,India,2000,4.6
+Population,percentage_of_international_migrants,Percentage of international migrants,p,20,77,689,IN,India,1995,5
+Population,percentage_of_international_migrants,Percentage of international migrants,p,20,77,689,IN,India,2005,4.3
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,20,77,689,IN,India,1993,73.2
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,20,77,689,IN,India,1998,91
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,1990,96.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,1993,97.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,1998,99.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,2000,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,2003,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,19.01699,72.856989,689,IN,Mumbai,2006,99
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,1990,88
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,1993,89.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,1998,92.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,2000,94.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,2003,96.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,20.709988,77.010017,689,IN,Akola,2006,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,1990,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,1993,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,1998,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,2000,99.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,2003,99
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,28.669993,77.230004,689,IN,Delhi,2006,92.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1990,97.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1993,98.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,1998,98.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2000,98.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2003,98.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,17.399983,78.479954,689,IN,Hyderabad,2006,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.680448,76.969968,689,IN,Karnal,2003,99.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,1990,99.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,1993,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,1998,98.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,2000,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,2003,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.921133,75.809987,689,IN,Jaipur,2006,99.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1990,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1993,99
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,1998,98.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2000,98.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2003,98.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,26.291766,73.016773,689,IN,Jodhpur,2006,97.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.639992,74.869993,689,IN,Amritsar,2006,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,1990,99.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,1993,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,1998,98.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,2000,98
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,2003,97.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,18.530018,73.850004,689,IN,Pune,2006,99.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,1990,96.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,1993,97
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,1998,97.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,2000,98.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,2003,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,34.099972,74.815009,689,IN,Srinagar,2006,98.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1990,90.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1993,92.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,1998,94.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2000,98.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2003,98.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,10.99996,76.950021,689,IN,Coimbatore,2006,95.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,11.934994,79.83,689,IN,Pondicherry,2006,99.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,1990,91.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,1993,94.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,1998,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,2000,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,2003,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.169988,75.725031,689,IN,Hisar,2006,99.2
+Slum dwellers,composting_toilet,Access to composting toilet,p,20,77,689,IN,India,2006,0.1
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,20,77,689,IN,India,1992,10.1
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,20,77,689,IN,India,2005,9.5
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,20,77,689,IN,India,1998,17.5
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,20,77,689,IN,India,1993,57.4
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,20,77,689,IN,India,1998,82.6
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,1985,10341
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2020,63243
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,1990,23197
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2025,79572
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,1995,36128
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2000,41585
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2005,47537
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2010,52664
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,20,77,689,IN,India,2015,57654
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,2020,19.19
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1990,14.89
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1960,14.82
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,2025,19.62
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1995,15.56
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1965,16.64
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,2000,15.15
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1975,13.84
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,2010,17.86
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,20,77,689,IN,India,1950,17.87
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,20,77,689,IN,India,1998,0.38
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,20,77,689,IN,India,1999,0.36
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,73.180019,689,IN,Vadodara,2000,1465
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,73.180019,689,IN,Vadodara,2010,1794
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,73.180019,689,IN,Vadodara,2020,2270
+Population,urban_population_cities,Urban population – Cities,1000,19.01699,72.856989,689,IN,Mumbai,2000,16367
+Population,urban_population_cities,Urban population – Cities,1000,19.01699,72.856989,689,IN,Mumbai,2010,19422
+Population,urban_population_cities,Urban population – Cities,1000,19.01699,72.856989,689,IN,Mumbai,2020,23661
+Population,urban_population_cities,Urban population – Cities,1000,22.494969,88.324676,689,IN,Kolkata,2000,13058
+Population,urban_population_cities,Urban population – Cities,1000,22.494969,88.324676,689,IN,Kolkata,2010,14283
+Population,urban_population_cities,Urban population – Cities,1000,22.494969,88.324676,689,IN,Kolkata,2020,16648
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,70.800009,689,IN,Rajkot,2000,974
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,70.800009,689,IN,Rajkot,2010,1361
+Population,urban_population_cities,Urban population – Cities,1000,22.310019,70.800009,689,IN,Rajkot,2020,1862
+Population,urban_population_cities,Urban population – Cities,1000,20.270428,85.82736,689,IN,Bhubaneshwar,2000,637
+Population,urban_population_cities,Urban population – Cities,1000,20.270428,85.82736,689,IN,Bhubaneshwar,2010,865
+Population,urban_population_cities,Urban population – Cities,1000,20.270428,85.82736,689,IN,Bhubaneshwar,2020,1165
+Population,urban_population_cities,Urban population – Cities,1000,30.927762,75.872257,689,IN,Ludhiana,2000,1368
+Population,urban_population_cities,Urban population – Cities,1000,30.927762,75.872257,689,IN,Ludhiana,2010,1598
+Population,urban_population_cities,Urban population – Cities,1000,30.927762,75.872257,689,IN,Ludhiana,2020,1966
+Population,urban_population_cities,Urban population – Cities,1000,25.179999,75.834999,689,IN,Kota,2000,692
+Population,urban_population_cities,Urban population – Cities,1000,25.179999,75.834999,689,IN,Kota,2010,978
+Population,urban_population_cities,Urban population – Cities,1000,25.179999,75.834999,689,IN,Kota,2020,1360
+Population,urban_population_cities,Urban population – Cities,1000,34.099972,74.815009,689,IN,Srinagar,2000,954
+Population,urban_population_cities,Urban population – Cities,1000,34.099972,74.815009,689,IN,Srinagar,2010,1251
+Population,urban_population_cities,Urban population – Cities,1000,34.099972,74.815009,689,IN,Srinagar,2020,1657
+Population,urban_population_cities,Urban population – Cities,1000,11.250436,75.76999,689,IN,Kozhikode,2000,875
+Population,urban_population_cities,Urban population – Cities,1000,11.250436,75.76999,689,IN,Kozhikode,2010,961
+Population,urban_population_cities,Urban population – Cities,1000,11.250436,75.76999,689,IN,Kozhikode,2020,1152
+Population,urban_population_cities,Urban population – Cities,1000,26.855039,80.914999,689,IN,Lucknow,2000,2221
+Population,urban_population_cities,Urban population – Cities,1000,26.855039,80.914999,689,IN,Lucknow,2010,2854
+Population,urban_population_cities,Urban population – Cities,1000,26.855039,80.914999,689,IN,Lucknow,2020,3704
+Population,urban_population_cities,Urban population – Cities,1000,22.787535,86.197519,689,IN,Jamshedpur,2000,1081
+Population,urban_population_cities,Urban population – Cities,1000,22.787535,86.197519,689,IN,Jamshedpur,2010,1320
+Population,urban_population_cities,Urban population – Cities,1000,22.787535,86.197519,689,IN,Jamshedpur,2020,1672
+Population,urban_population_cities,Urban population – Cities,1000,23.370006,85.330026,689,IN,Ranchi,2000,844
+Population,urban_population_cities,Urban population – Cities,1000,23.370006,85.330026,689,IN,Ranchi,2010,1107
+Population,urban_population_cities,Urban population – Cities,1000,23.370006,85.330026,689,IN,Ranchi,2020,1465
+Population,urban_population_cities,Urban population – Cities,1000,21.234995,81.635006,689,IN,Raipur,2000,680
+Population,urban_population_cities,Urban population – Cities,1000,21.234995,81.635006,689,IN,Raipur,2010,1088
+Population,urban_population_cities,Urban population – Cities,1000,21.234995,81.635006,689,IN,Raipur,2020,1621
+Population,urban_population_cities,Urban population – Cities,1000,23.175057,79.955057,689,IN,Jabalpur,2000,1100
+Population,urban_population_cities,Urban population – Cities,1000,23.175057,79.955057,689,IN,Jabalpur,2010,1257
+Population,urban_population_cities,Urban population – Cities,1000,23.175057,79.955057,689,IN,Jabalpur,2020,1532
+Population,urban_population_cities,Urban population – Cities,1000,22.715059,75.865023,689,IN,Indore,2000,1597
+Population,urban_population_cities,Urban population – Cities,1000,22.715059,75.865023,689,IN,Indore,2010,2127
+Population,urban_population_cities,Urban population – Cities,1000,22.715059,75.865023,689,IN,Indore,2020,2820
+Population,urban_population_cities,Urban population – Cities,1000,11.669997,78.180075,689,IN,Salem,2000,736
+Population,urban_population_cities,Urban population – Cities,1000,11.669997,78.180075,689,IN,Salem,2010,907
+Population,urban_population_cities,Urban population – Cities,1000,11.669997,78.180075,689,IN,Salem,2020,1160
+Population,urban_population_cities,Urban population – Cities,1000,24.770412,84.380007,689,IN,Aurangabad,2000,868
+Population,urban_population_cities,Urban population – Cities,1000,24.770412,84.380007,689,IN,Aurangabad,2010,1167
+Population,urban_population_cities,Urban population – Cities,1000,24.770412,84.380007,689,IN,Aurangabad,2020,1562
+Population,urban_population_cities,Urban population – Cities,1000,17.670406,75.900008,689,IN,Sholapur,2000,853
+Population,urban_population_cities,Urban population – Cities,1000,17.670406,75.900008,689,IN,Sholapur,2010,946
+Population,urban_population_cities,Urban population – Cities,1000,17.670406,75.900008,689,IN,Sholapur,2020,1129
+Population,urban_population_cities,Urban population – Cities,1000,28.669993,77.230004,689,IN,Delhi,2000,15732
+Population,urban_population_cities,Urban population – Cities,1000,28.669993,77.230004,689,IN,Delhi,2010,21935
+Population,urban_population_cities,Urban population – Cities,1000,28.669993,77.230004,689,IN,Delhi,2020,29274
+Population,urban_population_cities,Urban population – Cities,1000,17.399983,78.479954,689,IN,Hyderabad,2000,5445
+Population,urban_population_cities,Urban population – Cities,1000,17.399983,78.479954,689,IN,Hyderabad,2010,7578
+Population,urban_population_cities,Urban population – Cities,1000,17.399983,78.479954,689,IN,Hyderabad,2020,10275
+Population,urban_population_cities,Urban population – Cities,1000,18.530018,73.850004,689,IN,Pune,2000,3655
+Population,urban_population_cities,Urban population – Cities,1000,18.530018,73.850004,689,IN,Pune,2010,4951
+Population,urban_population_cities,Urban population – Cities,1000,18.530018,73.850004,689,IN,Pune,2020,6582
+Population,urban_population_cities,Urban population – Cities,1000,21.16996,79.089994,689,IN,Nagpur,2000,2089
+Population,urban_population_cities,Urban population – Cities,1000,21.16996,79.089994,689,IN,Nagpur,2010,2471
+Population,urban_population_cities,Urban population – Cities,1000,21.16996,79.089994,689,IN,Nagpur,2020,3059
+Population,urban_population_cities,Urban population – Cities,1000,11.080421,77.329998,689,IN,Tiruppur,2000,523
+Population,urban_population_cities,Urban population – Cities,1000,11.080421,77.329998,689,IN,Tiruppur,2010,927
+Population,urban_population_cities,Urban population – Cities,1000,11.080421,77.329998,689,IN,Tiruppur,2020,1466
+Population,urban_population_cities,Urban population – Cities,1000,26.921133,75.809987,689,IN,Jaipur,2000,2259
+Population,urban_population_cities,Urban population – Cities,1000,26.921133,75.809987,689,IN,Jaipur,2010,3017
+Population,urban_population_cities,Urban population – Cities,1000,26.921133,75.809987,689,IN,Jaipur,2020,3988
+Population,urban_population_cities,Urban population – Cities,1000,26.459999,80.319996,689,IN,Kanpur,2000,2641
+Population,urban_population_cities,Urban population – Cities,1000,26.459999,80.319996,689,IN,Kanpur,2010,2904
+Population,urban_population_cities,Urban population – Cities,1000,26.459999,80.319996,689,IN,Kanpur,2020,3427
+Population,urban_population_cities,Urban population – Cities,1000,25.624959,85.130039,689,IN,Patna,2000,1658
+Population,urban_population_cities,Urban population – Cities,1000,25.624959,85.130039,689,IN,Patna,2010,2022
+Population,urban_population_cities,Urban population – Cities,1000,25.624959,85.130039,689,IN,Patna,2020,2534
+Population,urban_population_cities,Urban population – Cities,1000,13.089988,80.279999,689,IN,Chennai,2000,6353
+Population,urban_population_cities,Urban population – Cities,1000,13.089988,80.279999,689,IN,Chennai,2010,8523
+Population,urban_population_cities,Urban population – Cities,1000,13.089988,80.279999,689,IN,Chennai,2020,11321
+Population,urban_population_cities,Urban population – Cities,1000,23.030053,72.580004,689,IN,Ahmedabad,2000,4427
+Population,urban_population_cities,Urban population – Cities,1000,23.030053,72.580004,689,IN,Ahmedabad,2010,6210
+Population,urban_population_cities,Urban population – Cities,1000,23.030053,72.580004,689,IN,Ahmedabad,2020,8452
+Population,urban_population_cities,Urban population – Cities,1000,21.199984,72.840039,689,IN,Surat,2000,2699
+Population,urban_population_cities,Urban population – Cities,1000,21.199984,72.840039,689,IN,Surat,2010,4438
+Population,urban_population_cities,Urban population – Cities,1000,21.199984,72.840039,689,IN,Surat,2020,6600
+Population,urban_population_cities,Urban population – Cities,1000,23.683333,86.983333,689,IN,Asansol,2000,1065
+Population,urban_population_cities,Urban population – Cities,1000,23.683333,86.983333,689,IN,Asansol,2010,1232
+Population,urban_population_cities,Urban population – Cities,1000,23.683333,86.983333,689,IN,Asansol,2020,1507
+Population,urban_population_cities,Urban population – Cities,1000,31.334921,75.56902,689,IN,Jullundur,2000,694
+Population,urban_population_cities,Urban population – Cities,1000,31.334921,75.56902,689,IN,Jullundur,2010,862
+Population,urban_population_cities,Urban population – Cities,1000,31.334921,75.56902,689,IN,Jullundur,2020,1105
+Population,urban_population_cities,Urban population – Cities,1000,25.454995,81.840007,689,IN,Allahabad,2000,1035
+Population,urban_population_cities,Urban population – Cities,1000,25.454995,81.840007,689,IN,Allahabad,2010,1205
+Population,urban_population_cities,Urban population – Cities,1000,25.454995,81.840007,689,IN,Allahabad,2020,1487
+Population,urban_population_cities,Urban population – Cities,1000,26.160017,91.769995,689,IN,Guwahati,2000,797
+Population,urban_population_cities,Urban population – Cities,1000,26.160017,91.769995,689,IN,Guwahati,2010,957
+Population,urban_population_cities,Urban population – Cities,1000,26.160017,91.769995,689,IN,Guwahati,2020,1202
+Population,urban_population_cities,Urban population – Cities,1000,10.809998,78.689967,689,IN,Tiruchirappalli,2000,837
+Population,urban_population_cities,Urban population – Cities,1000,10.809998,78.689967,689,IN,Tiruchirappalli,2010,1009
+Population,urban_population_cities,Urban population – Cities,1000,10.809998,78.689967,689,IN,Tiruchirappalli,2020,1276
+Population,urban_population_cities,Urban population – Cities,1000,28.841791,78.756784,689,IN,Moradabad,2000,626
+Population,urban_population_cities,Urban population – Cities,1000,28.841791,78.756784,689,IN,Moradabad,2010,871
+Population,urban_population_cities,Urban population – Cities,1000,28.841791,78.756784,689,IN,Moradabad,2020,1195
+Population,urban_population_cities,Urban population – Cities,1000,17.730015,83.304982,689,IN,Vishakhapatnam,2000,1309
+Population,urban_population_cities,Urban population – Cities,1000,17.730015,83.304982,689,IN,Vishakhapatnam,2010,1700
+Population,urban_population_cities,Urban population – Cities,1000,17.730015,83.304982,689,IN,Vishakhapatnam,2020,2238
+Population,urban_population_cities,Urban population – Cities,1000,16.519959,80.630003,689,IN,Vijayawada,2000,999
+Population,urban_population_cities,Urban population – Cities,1000,16.519959,80.630003,689,IN,Vijayawada,2010,1453
+Population,urban_population_cities,Urban population – Cities,1000,16.519959,80.630003,689,IN,Vijayawada,2020,2058
+Population,urban_population_cities,Urban population – Cities,1000,8.499984,76.950021,689,IN,Thiruvananthapuram,2000,885
+Population,urban_population_cities,Urban population – Cities,1000,8.499984,76.950021,689,IN,Thiruvananthapuram,2010,952
+Population,urban_population_cities,Urban population – Cities,1000,8.499984,76.950021,689,IN,Thiruvananthapuram,2020,1129
+Population,urban_population_cities,Urban population – Cities,1000,10.015008,76.223916,689,IN,Kochi,2000,1340
+Population,urban_population_cities,Urban population – Cities,1000,10.015008,76.223916,689,IN,Kochi,2010,1592
+Population,urban_population_cities,Urban population – Cities,1000,10.015008,76.223916,689,IN,Kochi,2020,1989
+Population,urban_population_cities,Urban population – Cities,1000,15.359978,75.125016,689,IN,Hubli,2000,776
+Population,urban_population_cities,Urban population – Cities,1000,15.359978,75.125016,689,IN,Hubli,2010,932
+Population,urban_population_cities,Urban population – Cities,1000,15.359978,75.125016,689,IN,Hubli,2020,1177
+Population,urban_population_cities,Urban population – Cities,1000,12.309984,76.660013,689,IN,Mysore,2000,776
+Population,urban_population_cities,Urban population – Cities,1000,12.309984,76.660013,689,IN,Mysore,2010,969
+Population,urban_population_cities,Urban population – Cities,1000,12.309984,76.660013,689,IN,Mysore,2020,1253
+Population,urban_population_cities,Urban population – Cities,1000,12.969995,77.56001,689,IN,Bangalore,2000,5567
+Population,urban_population_cities,Urban population – Cities,1000,12.969995,77.56001,689,IN,Bangalore,2010,8275
+Population,urban_population_cities,Urban population – Cities,1000,12.969995,77.56001,689,IN,Bangalore,2020,11641
+Population,urban_population_cities,Urban population – Cities,1000,26.291766,73.016773,689,IN,Jodhpur,2000,842
+Population,urban_population_cities,Urban population – Cities,1000,26.291766,73.016773,689,IN,Jodhpur,2010,1116
+Population,urban_population_cities,Urban population – Cities,1000,26.291766,73.016773,689,IN,Jodhpur,2020,1492
+Population,urban_population_cities,Urban population – Cities,1000,28.345387,79.42,689,IN,Bareilly,2000,722
+Population,urban_population_cities,Urban population – Cities,1000,28.345387,79.42,689,IN,Bareilly,2010,961
+Population,urban_population_cities,Urban population – Cities,1000,28.345387,79.42,689,IN,Bareilly,2020,1294
+Population,urban_population_cities,Urban population – Cities,1000,18.009998,79.57999,689,IN,Warangal,2000,569
+Population,urban_population_cities,Urban population – Cities,1000,18.009998,79.57999,689,IN,Warangal,2010,746
+Population,urban_population_cities,Urban population – Cities,1000,18.009998,79.57999,689,IN,Warangal,2020,995
+Population,urban_population_cities,Urban population – Cities,1000,30.719997,76.780006,689,IN,Chandigarh,2000,791
+Population,urban_population_cities,Urban population – Cities,1000,30.719997,76.780006,689,IN,Chandigarh,2010,1010
+Population,urban_population_cities,Urban population – Cities,1000,30.719997,76.780006,689,IN,Chandigarh,2020,1315
+Population,urban_population_cities,Urban population – Cities,1000,31.639992,74.869993,689,IN,Amritsar,2000,990
+Population,urban_population_cities,Urban population – Cities,1000,31.639992,74.869993,689,IN,Amritsar,2010,1171
+Population,urban_population_cities,Urban population – Cities,1000,31.639992,74.869993,689,IN,Amritsar,2020,1455
+Population,urban_population_cities,Urban population – Cities,1000,25.32999,83.000039,689,IN,Varanasi,2000,1199
+Population,urban_population_cities,Urban population – Cities,1000,25.32999,83.000039,689,IN,Varanasi,2010,1419
+Population,urban_population_cities,Urban population – Cities,1000,25.32999,83.000039,689,IN,Varanasi,2020,1771
+Population,urban_population_cities,Urban population – Cities,1000,20.000419,73.779982,689,IN,Nasik,2000,1117
+Population,urban_population_cities,Urban population – Cities,1000,20.000419,73.779982,689,IN,Nasik,2010,1531
+Population,urban_population_cities,Urban population – Cities,1000,20.000419,73.779982,689,IN,Nasik,2020,2066
+Population,urban_population_cities,Urban population – Cities,1000,21.216667,81.433333,689,IN,Bhilai,2000,905
+Population,urban_population_cities,Urban population – Cities,1000,21.216667,81.433333,689,IN,Bhilai,2010,1054
+Population,urban_population_cities,Urban population – Cities,1000,21.216667,81.433333,689,IN,Bhilai,2020,1298
+Population,urban_population_cities,Urban population – Cities,1000,23.249988,77.409993,689,IN,Bhopal,2000,1426
+Population,urban_population_cities,Urban population – Cities,1000,23.249988,77.409993,689,IN,Bhopal,2010,1851
+Population,urban_population_cities,Urban population – Cities,1000,23.249988,77.409993,689,IN,Bhopal,2020,2427
+Population,urban_population_cities,Urban population – Cities,1000,9.920026,78.120027,689,IN,Madurai,2000,1187
+Population,urban_population_cities,Urban population – Cities,1000,9.920026,78.120027,689,IN,Madurai,2010,1443
+Population,urban_population_cities,Urban population – Cities,1000,9.920026,78.120027,689,IN,Madurai,2020,1835
+Population,urban_population_cities,Urban population – Cities,1000,10.99996,76.950021,689,IN,Coimbatore,2000,1420
+Population,urban_population_cities,Urban population – Cities,1000,10.99996,76.950021,689,IN,Coimbatore,2010,2095
+Population,urban_population_cities,Urban population – Cities,1000,10.99996,76.950021,689,IN,Coimbatore,2020,2973
+Population,urban_population_cities,Urban population – Cities,1000,27.17042,78.015021,689,IN,Agra,2000,1293
+Population,urban_population_cities,Urban population – Cities,1000,27.17042,78.015021,689,IN,Agra,2010,1714
+Population,urban_population_cities,Urban population – Cities,1000,27.17042,78.015021,689,IN,Agra,2020,2276
+Population,urban_population_cities,Urban population – Cities,1000,27.892211,78.061788,689,IN,Aligarh,2000,653
+Population,urban_population_cities,Urban population – Cities,1000,27.892211,78.061788,689,IN,Aligarh,2010,891
+Population,urban_population_cities,Urban population – Cities,1000,27.892211,78.061788,689,IN,Aligarh,2020,1210
+Population,urban_population_cities,Urban population – Cities,1000,29.000412,77.700001,689,IN,Meerut,2000,1143
+Population,urban_population_cities,Urban population – Cities,1000,29.000412,77.700001,689,IN,Meerut,2010,1406
+Population,urban_population_cities,Urban population – Cities,1000,29.000412,77.700001,689,IN,Meerut,2020,1786
+Population,urban_population_cities,Urban population – Cities,1000,23.800393,86.419986,689,IN,Dhanbad,2000,1046
+Population,urban_population_cities,Urban population – Cities,1000,23.800393,86.419986,689,IN,Dhanbad,2010,1186
+Population,urban_population_cities,Urban population – Cities,1000,23.800393,86.419986,689,IN,Dhanbad,2020,1438
+Population,urban_population_cities,Urban population – Cities,1000,26.229987,78.180075,689,IN,Gwalior,2000,855
+Population,urban_population_cities,Urban population – Cities,1000,26.229987,78.180075,689,IN,Gwalior,2010,1084
+Population,urban_population_cities,Urban population – Cities,1000,26.229987,78.180075,689,IN,Gwalior,2020,1414
+Streets,composite_street_connectivity_index_sub_urban_area,Composite Street Connectivity Index – suburban area,index,30.719997,76.780006,689,IN,Chandigarh,2013,0.26
+Streets,composite_street_connectivity_index_sub_urban_area,Composite Street Connectivity Index – suburban area,index,22.494969,88.324676,689,IN,Kolkata,2013,0.414
+Resilience,loss_of_lives_in_cyclones,Average annual loss of lives in cyclones,n,20,77,689,IN,India,1980,1022.52
+Resilience,loss_of_lives_by_earthquake,Average annual loss of lives in earthquake,n,20,77,689,IN,India,1980,576.52
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2048,0.32
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2049,0.32
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1950,1.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1951,1.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1952,1.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1953,1.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1954,1.73
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1955,1.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1956,1.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1957,1.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1958,1.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1959,1.9
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1960,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1961,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1962,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1963,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1964,2.04
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1965,2.13
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1966,2.13
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1967,2.13
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1968,2.13
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1969,2.13
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1970,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1971,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1972,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1973,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1974,2.22
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1975,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1976,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1977,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1978,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1979,2.3
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1980,2.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1981,2.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1982,2.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1983,2.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1984,2.26
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1985,2.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1986,2.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1987,2.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1988,2.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1989,2.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1990,2.08
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1991,2.08
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1992,2.08
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1993,2.08
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1994,2.08
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1995,1.84
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1996,1.84
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1997,1.84
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1998,1.84
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,1999,1.84
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2000,1.62
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2001,1.62
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2002,1.62
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2003,1.62
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2004,1.62
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2005,1.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2006,1.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2007,1.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2008,1.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2009,1.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2010,1.31
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2011,1.31
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2012,1.31
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2013,1.31
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2014,1.31
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2015,1.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2016,1.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2017,1.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2018,1.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2019,1.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2020,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2021,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2022,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2023,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2024,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2025,0.79
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2026,0.79
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2027,0.79
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2028,0.79
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2029,0.79
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2030,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2031,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2032,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2033,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2034,0.63
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2035,0.54
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2036,0.54
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2037,0.54
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2038,0.54
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2039,0.54
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2040,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2041,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2042,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2043,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2044,0.44
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2045,0.32
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2046,0.32
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,20,77,689,IN,India,2047,0.32
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,20,77,689,IN,India,2000,41.5
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,20,77,689,IN,India,1995,48.2
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,20,77,689,IN,India,2005,34.8
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,20,77,689,IN,India,1990,54.9
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,20,77,689,IN,India,2007,32.1
+Slum dwellers,literacy_rate_non_slum,Literacy rate by shelter deprivation – Non slum,p,20,77,689,IN,India,1999,73
+Health,children_with_diarrhea_slum,Proportion of children with diarrhea in last two weeks – Slum,p,20,77,689,IN,India,1992,9.9
+Health,children_with_diarrhea_slum,Proportion of children with diarrhea in last two weeks – Slum,p,20,77,689,IN,India,2005,9.1
+Health,children_with_diarrhea_slum,Proportion of children with diarrhea in last two weeks – Slum,p,20,77,689,IN,India,1998,20.8
+Streets,street_density_city_core,Street density (km/km²) – city core,n,30.719997,76.780006,689,IN,Chandigarh,2013,15.5
+Streets,street_density_city_core,Street density (km/km²) – city core,n,22.494969,88.324676,689,IN,Kolkata,2013,22.6
+Streets,street_density_city_core,Street density (km/km²) – city core,n,19.01699,72.856989,689,IN,Mumbai,2013,15
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2050,743382
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1950,308484
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1955,334228
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1960,366042
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1965,401094
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1970,440766
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1975,482841
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1980,529529
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1985,583367
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1990,640437
+Population,rural_population,Rural population,1000,20,77,689,IN,India,1995,700508
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2000,756797
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2005,808840
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2007,827768
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2010,853324
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2015,886923
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2020,906638
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2025,909444
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2030,894341
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2035,867347
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2040,832814
+Population,rural_population,Rural population,1000,20,77,689,IN,India,2045,791239
+City prosperity,cpi_productivity_index,Productivity index,p,19.01699,72.856989,689,IN,Mumbai,2012,0.645
+City prosperity,cpi_productivity_index,Productivity index,p,28.600023,77.19998,689,IN,New Delhi,2012,0.596
+Slum dwellers,slum_population,Slum population – Urban,1000,20,77,689,IN,India,2000,120117
+Slum dwellers,slum_population,Slum population – Urban,1000,20,77,689,IN,India,1995,122376
+Slum dwellers,slum_population,Slum population – Urban,1000,20,77,689,IN,India,2005,113223
+Slum dwellers,slum_population,Slum population – Urban,1000,20,77,689,IN,India,1990,120746
+Slum dwellers,slum_population,Slum population – Urban,1000,20,77,689,IN,India,2007,109501
+Slum dwellers,literacy_rate_1_shelter_deprivation,Literacy rate by shelter deprivation – 1 Shelter deprivation,p,20,77,689,IN,India,1999,45.5
+Transport,transport_share_cities_walking,Share of various modes of transport in use in cities – walking,p,19.01699,72.856989,689,IN,Mumbai,2008,27
+Transport,transport_share_cities_walking,Share of various modes of transport in use in cities – walking,p,23.030053,72.580004,689,IN,Ahmedabad,2008,22
+Transport,transport_share_cities_walking,Share of various modes of transport in use in cities – walking,p,12.969995,77.56001,689,IN,Bangalore,2008,26
+Transport,transport_share_cities_walking,Share of various modes of transport in use in cities – walking,p,28.669993,77.230004,689,IN,Delhi,2008,21
+Slum dwellers,distribution_of_solid_cooking_fuel_slum,Percent distribution of solid cooking fuel – Slum,p,20,77,689,IN,India,2006,44.8
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1990,82.9
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1960,156.6
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1995,75
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2000,66.9
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1970,128.7
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2005,57.7
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,2007,54.3
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,20,77,689,IN,India,1980,107.5
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,20,77,689,IN,India,2006,80.8
+Slum dwellers,literacy_rate_urban,Literacy rate by shelter deprivation – Urban,p,20,77,689,IN,India,1999,62.2
+Slum dwellers,income_gini_coefficient_countries,Income Gini Coefficient – Countries,r,20,77,689,IN,India,1997,0.53
