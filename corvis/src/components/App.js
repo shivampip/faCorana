@@ -9,7 +9,7 @@ const d = (msg) => {
 };
 
 // const geoUrl = 'https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json';
-const geoUrl = 'https://raw.githubusercontent.com/shivampip/faCorana/master/simulation/data/map/India_Official.json';
+const geoUrl = 'https://raw.githubusercontent.com/shivampip/faCorana/master/corvis/data/map/India_Official.json';
 
 class App extends React.Component {
 	state = {
@@ -212,7 +212,7 @@ class App extends React.Component {
 
 				<div className="creditD">
 					Developed by{' '}
-					<a href="https://twitter.com/shivampip" target="_blank">
+					<a href="https://github.com/shivampip" target="_blank">
 						Shivam Agrawal
 					</a>
 				</div>

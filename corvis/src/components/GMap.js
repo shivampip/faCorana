@@ -20,14 +20,14 @@ const GMap = (props) => {
 	let maxLimit = 0;
 	let colFill = 'purple';
 	if (props.event === 'discharged') {
-		maxLimit = 30; //25
+		maxLimit = 35; //25
 		colFill = 'green';
 	} else if (props.event === 'death') {
-		maxLimit = 10; //5
+		maxLimit = 15; //5
 		colFill = 'black';
 	} else {
-		maxLimit = 200; //189
-		colFill = 'purple';
+		maxLimit = 220; //189
+		colFill = 'blueviolet';
 	}
 	return (
 		<div>
