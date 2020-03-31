@@ -3,10 +3,13 @@ import './App.css';
 import GMap from './GMap';
 import corona from '../api/corona';
 import ReactTooltip from 'react-tooltip';
+import ReactGA from 'react-ga';
 
 const d = (msg) => {
 	console.log(msg);
 };
+
+const GA_TRACKING_ID = 'UA-161796753-1';
 
 // const geoUrl = 'https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json';
 const geoUrl = 'https://raw.githubusercontent.com/shivampip/faCorana/master/corvis/data/map/India_Official.json';
@@ -32,6 +35,8 @@ class App extends React.Component {
 		} else {
 			d(response.data);
 		}
+		ReactGA.initialize(GA_TRACKING_ID);
+		ReactGA.pageview('/corvis');
 	}
 
 	animateNow = () => {
@@ -197,15 +202,19 @@ class App extends React.Component {
 						onClick={(eve) => {
 							this.state.event = 'confirmed';
 							this.state.count = this.state.data.length - 1;
+							ReactGA.event({
+								category: 'User',
+								action: 'Clicked Hope Button'
+							});
 							this.showHope();
 						}}
 					>
-						Hope
+						<span style={{ color: 'red' }}>♥️</span> Hope
 					</button>
 					<p className="hopeT">
-						The Hope button shows how we can flatten the curve by staying at home, maintain social
+						The Hope button shows how the curve can be flatten by staying at home, maintain social
 						distancing, hygiene and follow all quarantine guidelines.{' '}
-						<i>(This is not based on data or research. It is just a illustration)</i>
+						<i>(This is not based on data or research. It is just an illustration)</i>
 					</p>
 				</div>
 				<div className="instB">
@@ -301,9 +310,16 @@ class App extends React.Component {
 
 				<div className="creditD">
 					Developed by{' '}
-					<a href="https://github.com/shivampip" target="_blank">
+					{/* <a href="https://github.com/shivampip" target="_blank">
 						Shivam Agrawal
-					</a>
+					</a> */}
+					<ReactGA.OutboundLink
+						eventLabel="Show Shivam Profile"
+						to="https://github.com/shivampip"
+						target="_blank"
+					>
+						Shivam Agrawal
+					</ReactGA.OutboundLink>
 				</div>
 				<div className={this.state.isReady ? null : 'loadContainer'}>
 					<div className="loadT" style={{ display: this.state.isReady ? 'none' : 'visible' }}>
