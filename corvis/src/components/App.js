@@ -39,6 +39,9 @@ class App extends React.Component {
 			d('Next Animation');
 			let row = this.state.data[this.state.count];
 			// this.state.count = this.state.count + 1;
+			if (row === undefined) {
+				return null;
+			}
 
 			var parts = row.day.split('-');
 			var ndate = new Date(parts[0], parts[1] - 1, parts[2]);
@@ -105,7 +108,7 @@ class App extends React.Component {
 			ndate.setDate(ndate.getDate() + Math.floor(numberOfDaysToAdd / 2));
 			const dtf = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' });
 			const [ { value: mo }, , { value: da }, , { value: ye } ] = dtf.formatToParts(ndate);
-			let nday = `We hope and pray: ${da}-${mo}-${ye}`;
+			let nday = `We hope: ${da}-${mo}-${ye}`;
 
 			this.setState({ count: this.state.count - 1, row: row, day: nday });
 
@@ -142,7 +145,7 @@ class App extends React.Component {
 							this.animateNow();
 						}}
 					>
-						Discharged
+						Recovered
 					</button>
 					<button
 						className={`deathB ${this.state.event === 'death' ? 'selected' : null}`}
@@ -197,8 +200,13 @@ class App extends React.Component {
 							this.showHope();
 						}}
 					>
-						What We Hope & Pray
+						Hope
 					</button>
+					<p className="hopeT">
+						The Hope button shows how we can flatten the curve by staying at home, maintain social
+						distancing, hygiene and follow all quarantine guidelines.{' '}
+						<i>(This is not based on data or research. It is just a illustration)</i>
+					</p>
 				</div>
 				<div className="instB">
 					<i>Data is not real-time</i>

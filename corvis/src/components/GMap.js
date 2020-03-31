@@ -14,7 +14,7 @@ const width = 400;
 const height = 400;
 
 // const projection = geoPolyhedralWaterman().translate([ width / 2, height / 2 ]).rotate([ 0, 78, 0 ]).scale(98);
-const projection = geoCylindricalStereographic().translate([ width / 2, height / 2 ]).scale(98);
+const projection = geoCylindricalStereographic().translate([ width / 2 - 850, height / 2 + 250 ]).scale(600);
 
 const GMap = (props) => {
 	let maxLimit = 0;
@@ -33,100 +33,100 @@ const GMap = (props) => {
 		<div>
 			{/* <ComposableMap> */}
 			<ComposableMap className="gmap" width={width} height={height} projection={projection} data-tip="">
-				<ZoomableGroup zoom={6} center={[ 82, 22 ]}>
-					<Geographies geography={props.geoUrl}>
-						{({ geographies }) =>
-							geographies.map((geo) => {
-								// d(geo);
-								let name = geo.properties.name;
-								let total = 0;
-								let death = 0;
-								let discharged = 0;
-								let fillOpacity = 0;
-								if (props.cdata) {
-									// d(props.cdata);
-									let matched = props.cdata.filter((row) => {
-										return row.loc === name;
-									});
-									if (matched.length > 0) {
-										total = matched[0].confirmedCasesIndian + matched[0].confirmedCasesForeign;
-										death = matched[0].deaths;
-										discharged = matched[0].discharged;
+				{/* <ZoomableGroup zoom={6} center={[ 82, 22 ]}> */}
+				<Geographies geography={props.geoUrl}>
+					{({ geographies }) =>
+						geographies.map((geo) => {
+							// d(geo);
+							let name = geo.properties.name;
+							let total = 0;
+							let death = 0;
+							let discharged = 0;
+							let fillOpacity = 0;
+							if (props.cdata) {
+								// d(props.cdata);
+								let matched = props.cdata.filter((row) => {
+									return row.loc === name;
+								});
+								if (matched.length > 0) {
+									total = matched[0].confirmedCasesIndian + matched[0].confirmedCasesForeign;
+									death = matched[0].deaths;
+									discharged = matched[0].discharged;
 
-										// maxConfirm = maxConfirm < total ? total : maxConfirm;
-										// maxDeath = maxDeath < death ? death : maxDeath;
-										// maxDis = maxDis < discharged ? discharged : maxDis;
+									// maxConfirm = maxConfirm < total ? total : maxConfirm;
+									// maxDeath = maxDeath < death ? death : maxDeath;
+									// maxDis = maxDis < discharged ? discharged : maxDis;
 
-										// d(maxConfirm + ', ' + maxDeath + ', ' + maxDis); // 180, 5, 25
-										if (props.event === 'discharged') {
-											fillOpacity = discharged / maxLimit;
-										} else if (props.event === 'death') {
-											fillOpacity = death / maxLimit;
-										} else {
-											fillOpacity = total / maxLimit;
-										}
-										// fillOpacity= death/ 10;
-										// fillOpacity = discharged / 30;
+									// d(maxConfirm + ', ' + maxDeath + ', ' + maxDis); // 180, 5, 25
+									if (props.event === 'discharged') {
+										fillOpacity = discharged / maxLimit;
+									} else if (props.event === 'death') {
+										fillOpacity = death / maxLimit;
+									} else {
+										fillOpacity = total / maxLimit;
 									}
+									// fillOpacity= death/ 10;
+									// fillOpacity = discharged / 30;
 								}
-								return (
-									<Geography
-										key={geo.rsmKey}
-										geography={geo}
-										// clipPath="url(#rsm-sphere)"
-										fill={colFill}
-										fillOpacity={fillOpacity}
-										stroke="#969696"
-										strokeOpacity="1"
-										strokeWidth=".07"
-										onMouseEnter={() => {
-											props.setTooltipContent(
-												<div className="tooltip">
-													<p className="country">{name}</p>
-													<table>
-														<tbody>
-															<tr className="confirmed">
-																<td>Confirmed</td>
-																<td>{total}</td>
-															</tr>
-															<tr className="discharged">
-																<td>Discharged</td>
-																<td>{discharged}</td>
-															</tr>
-															<tr className="death">
-																<td>Death</td>
-																<td>{death}</td>
-															</tr>
-														</tbody>
-													</table>
-												</div>
-											);
-										}}
-										onMouseLeave={() => {
-											props.setTooltipContent('');
-										}}
-										style={{
-											default: {
-												fill: { colFill },
-												outline: 'none'
-											},
-											hover: {
-												// fill: '#F53',
-												fill: { colFill },
-												stroke: 'black',
-												strokeWidth: '0.2',
-												outline: 'none'
-											},
-											pressed: {
-												// fill: '#E42',
-												outline: 'none'
-											}
-										}}
-									/>
-								);
-							})}
-					</Geographies>
-				</ZoomableGroup>
+							}
+							return (
+								<Geography
+									key={geo.rsmKey}
+									geography={geo}
+									// clipPath="url(#rsm-sphere)"
+									fill={colFill}
+									fillOpacity={fillOpacity}
+									stroke="#383838"
+									strokeOpacity="1"
+									strokeWidth=".15"
+									onMouseEnter={() => {
+										props.setTooltipContent(
+											<div className="tooltip">
+												<p className="country">{name}</p>
+												<table>
+													<tbody>
+														<tr className="confirmed">
+															<td>Confirmed</td>
+															<td>{total}</td>
+														</tr>
+														<tr className="discharged">
+															<td>Discharged</td>
+															<td>{discharged}</td>
+														</tr>
+														<tr className="death">
+															<td>Death</td>
+															<td>{death}</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+										);
+									}}
+									onMouseLeave={() => {
+										props.setTooltipContent('');
+									}}
+									style={{
+										default: {
+											fill: { colFill },
+											outline: 'none'
+										},
+										hover: {
+											// fill: '#F53',
+											fill: { colFill },
+											stroke: 'black',
+											strokeWidth: '0.7',
+											outline: 'none'
+										},
+										pressed: {
+											// fill: '#E42',
+											outline: 'none'
+										}
+									}}
+								/>
+							);
+						})}
+				</Geographies>
+				{/* </ZoomableGroup> */}
 			</ComposableMap>
 		</div>
 	);
