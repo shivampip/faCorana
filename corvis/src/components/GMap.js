@@ -18,16 +18,19 @@ const projection = geoCylindricalStereographic().translate([ width / 2 - 850, he
 
 const GMap = (props) => {
 	let maxLimit = 0;
+	// let maxConfirm = 0;
+	// let maxDeath = 0;
+	// let maxDis = 0;
 	let colFill = 'purple';
 	if (props.event === 'discharged') {
-		maxLimit = 35; //25
+		maxLimit = 100; //25
 		colFill = 'green';
 	} else if (props.event === 'death') {
-		maxLimit = 15; //5
+		maxLimit = 60; //5
 		colFill = 'black';
 	} else {
-		maxLimit = 220; //189
-		colFill = 'blueviolet';
+		maxLimit = 700; //189
+		colFill = '#302078';
 	}
 	return (
 		<div>

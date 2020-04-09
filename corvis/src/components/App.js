@@ -22,7 +22,8 @@ class App extends React.Component {
 		row: null,
 		tooktipData: '',
 		event: 'confirmed', //confirmed, discharged, death
-		isReady: false
+		isReady: false,
+		lastUpdated: ''
 	};
 
 	async componentDidMount() {
@@ -31,7 +32,21 @@ class App extends React.Component {
 			d('HISTORY FATCHED SUCCESS');
 			const data = response.data.data;
 			d(data);
-			this.setState({ data: data, isReady: true });
+			// let latest= data[data.length - 1]
+
+			// let dd = new Date(response.data.lastRefreshed);
+			let dd = new Date(response.data.lastOriginUpdate);
+			var datestring =
+				dd.getDate() +
+				'-' +
+				(dd.getMonth() + 1) +
+				'-' +
+				dd.getFullYear() +
+				' ' +
+				dd.getHours() +
+				':' +
+				dd.getMinutes();
+			this.setState({ data: data, isReady: true, lastUpdated: datestring });
 		} else {
 			d(response.data);
 		}
@@ -61,7 +76,7 @@ class App extends React.Component {
 			} else {
 				this.state.count = 0;
 			}
-		}, 500);
+		}, 200);
 	};
 
 	showHope = () => {
@@ -173,7 +188,9 @@ class App extends React.Component {
 				<ReactTooltip place="top" backgroundColor="white" effect="float" border={true} borderColor="black">
 					{this.state.tooktipData}
 				</ReactTooltip>
-
+				<div className="instB">
+					<i>Last Updated: {this.state.lastUpdated}</i>
+				</div>
 				<div className="dayDiv">{this.state.day}</div>
 				<table className="dashboardT">
 					<tbody>
@@ -216,9 +233,6 @@ class App extends React.Component {
 						distancing, hygiene and follow all quarantine guidelines.{' '}
 						<i>(This is not based on data or research. It is just an illustration)</i>
 					</p>
-				</div>
-				<div className="instB">
-					<i>Data is not real-time</i>
 				</div>
 				<div className="tableHead">Useful Resources</div>
 				<table className="dashboardT resourceT">

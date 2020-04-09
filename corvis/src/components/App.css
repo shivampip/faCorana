@@ -31,7 +31,7 @@
 	color: gray;
 	text-align: right;
 	font-size: .8rem;
-	margin-top: 5px;
+	margin-top: -10px;
 	margin-right: 10px;
 }
 
@@ -235,6 +235,7 @@
 
 	.instB {
 		width: 50%;
+		margin-top: 10px;
 	}
 
 	.controlP {
